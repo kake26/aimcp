@@ -18,7 +18,7 @@ It exposes your vault to remote AI clients (Claude, ChatGPT, Grok, etc.) over St
 
 ## Requirements
 
-- .NET 8+ (ASP.NET Core)
+- .NET 8+ (ASP.NET Core) minium version, .NET 10 recommended
 - [Fossil](https://fossil-scm.org) on PATH (optional; needed for versioning)
 - An Obsidian vault (folder of Markdown files)
 
